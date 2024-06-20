@@ -1,1 +1,1 @@
-# SwingFurniture
+# SwingFurniture Desktop Application
